@@ -18,6 +18,7 @@ Last updated 30 August 2023
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
 |David "JoelKatz" Schwartz                               | @joelkatz             | [Profile](https://x.com/JoelKatz)                |
+|You (Do Your Own Research)                              | @                     | [Profile](https://x.com)                |
 
 
 To contribute to this list or raise concerns, please get in touch. Remember, the best way to be on this list is to provide accurate and updated information. Do your research and ensure relevance and accuracy before posting.
